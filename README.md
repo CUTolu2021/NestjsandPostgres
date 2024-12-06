@@ -23,7 +23,7 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
-This project is a robust and scalable user entity management system built using the NestJS framework. The system revolves around the User entity, which represents an individual user with various attributes and properties. The project provides a comprehensive set of APIs for creating, reading, updating, and deleting (CRUD) user entities, as well as retrieving and manipulating user data.
+This project is a scalable user entity management system built using the NestJS framework. The system revolves around the User entity, which represents an individual user with various attributes and properties. The project provides a comprehensive set of APIs for creating, reading, updating, and deleting (CRUD) user entities, as well as retrieving and manipulating user data.
 
 User Entity
 The User entity is the core of this project, representing an individual user with the following attributes:
